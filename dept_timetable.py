@@ -1,3 +1,10 @@
+#This module loads the timetable of a given ddepartment for a given year and returns the data stucture.
+#It also generates venues timetable on reading timetable cell contents and stores the returned structure
+#
+##
+#
+#
+
 from openpyxl import load_workbook
 import os
 from openpyxl.utils.cell import column_index_from_string
