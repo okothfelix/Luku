@@ -1,4 +1,4 @@
 # Luku
 
 
-Luku is a file server purposed to manage an orginizations data and generate various reports based on inputs recieved.
+Luku is a file server designed in python that analyses data in various formats (excel, word and pdf) and outputs the result in the required format formats.
